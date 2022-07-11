@@ -119,12 +119,12 @@ html {
     display: inline-block;
 }
 
-#nav > li {
+#nav>li {
     display: inline-block;
     position: relative;
 }
 
-#nav > li > a {
+#nav>li>a {
     color: #fff;
     text-transform: uppercase;
 }
@@ -140,7 +140,7 @@ html {
     display: block;
 }
 
-#nav li:hover > a,
+#nav li:hover>a,
 #nav .subnav li:hover a {
     color: #000;
     background-color: #ccc;
@@ -220,10 +220,12 @@ html {
     text-align: center;
     color: #fff;
 }
+
 #slider .text-heading {
     font-weight: 500;
     font-size: 24px;
 }
+
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
@@ -337,14 +339,17 @@ html {
     padding: 16px;
     font-size: 15px;
 }
+
 .place-heading {
     font-size: 15px;
     font-weight: bolder;
 }
+
 .place-time {
     margin-top: 15px;
     color: #757575;
 }
+
 .place-desc {
     margin-top: 15px;
     line-height: 1.4;
@@ -385,7 +390,7 @@ html {
 }
 
 /* Map section */
-.map-section img{
+.map-section img {
     width: 100%;
 }
 
@@ -518,9 +523,9 @@ html {
         opacity: 0;
         transform: translateY(-140px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
     }
 }
-
