@@ -1,1 +1,1 @@
-https://dnghngnam.github.io/the-band/
+https://dnghngnm.github.io/the-band/
